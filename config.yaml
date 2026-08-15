@@ -1,4 +1,4 @@
 application:
   name: devops-week-02
-  environment: development
-  port: 5000
+  environment: production
+  port: 8080
